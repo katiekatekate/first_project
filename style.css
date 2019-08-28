@@ -1,0 +1,26 @@
+body{
+    background-color: silver;
+    color: yellow;
+}
+h1{
+    color:blue;
+}
+h2{
+    color:black
+}
+h3{
+    color:green
+}
+#flex{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color: red;
+    margin-bottom:100px;
+}
+.hidden{
+    display:none;
+}
+ul{
+    color:salmon;
+}
